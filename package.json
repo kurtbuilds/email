@@ -22,9 +22,7 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
+    "@kurtbuilds/lib": "github:kurtbuilds/lib#next",
     "@aws-sdk/client-sesv2": "^3.40.0"
-  },
-  "peerDependencies": {
-    "@kurtbuilds/lib": "github:kurtbuilds/lib#next"
   }
 }
